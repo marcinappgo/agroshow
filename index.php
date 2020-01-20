@@ -7,7 +7,7 @@
 <section class="container info-index">
     <div class="row no-gutters">
         <div class="col-12 col-md-4">
-            <a href="/zgloszenia.php" class="item">
+            <a href="zgloszenia.php" class="item">
                 <div class="thumb mr-0">
                     <?php include('./src/assets/img/_update/ico/zgloszenia.svg') ?>
                 </div>
@@ -15,7 +15,7 @@
             </a>
         </div>
         <div class="col-12 col-md-4">
-            <a href="/o-targach.php" class="item">
+            <a href="o-targach.php" class="item">
                 <div class="thumb">
                     <?php include('./src/assets/img/_update/ico/plan_imprezy.svg') ?>
                 </div>
@@ -23,7 +23,7 @@
             </a>
         </div>
         <div class="col-12 col-md-4">
-            <a href="/wystawcy.php" class="item">
+            <a href="wystawcy.php" class="item">
                 <div class="thumb">
                     <?php include('./src/assets/img/_update/ico/lista_wystawcow.svg') ?>
                 </div>
@@ -42,7 +42,7 @@
             <hr class="hr-heading">
         </div>
         <div class="col-12 col-lg-3 d-flex align-items-center justify-content-end">
-            <a href="/aktualnosci.php" class="button-outline">ZOBACZ WSZYSTKIE <i class="fa fa-chevron-right ml-2"></i></a>
+            <a href="aktualnosci.php" class="button-outline">ZOBACZ WSZYSTKIE <i class="fa fa-chevron-right ml-2"></i></a>
         </div>
     </div>
 
@@ -53,10 +53,10 @@
                     <img src="./src/assets/img/1.jpg" alt="1">
                 </div>
                 <p class="date">10-05-2020</p>
-                <h2 class="heading-2"><a href="/wszystkie-aktualnosci/aktualnosc-pierwsza.php">Artykuł 1</a></h2>
+                <h2 class="heading-2"><a href="aktualnosc-pierwsza.php">Artykuł 1</a></h2>
                 <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid aspernatur at
                     consequatur dolores dolorum eaque ipsum qui quidem quos recusandae tempore.</p>
-                <a href="/wszystkie-aktualnosci/aktualnosc-pierwsza.php" class="button-outline">DOWIEDZ SIĘ WIĘCEJ <i class="fa fa-chevron-right ml-2"></i></a>
+                <a href="aktualnosc-pierwsza.php" class="button-outline">DOWIEDZ SIĘ WIĘCEJ <i class="fa fa-chevron-right ml-2"></i></a>
             </div>
         </div>
         <div class="col-12 col-lg-4">

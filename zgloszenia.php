@@ -11,7 +11,7 @@
     <div class="row">
         <div class="col-xs-12 col-md-4 no-padding">
            <div class="info-banner">
-                <a target="_blank" href="/src/assets/pdf/20190911/FORMULARZ-ZGLOSZENIOWY-2020.pdf">Formularz zgłoszeniowy dla wystawców
+                <a target="_blank" href="./src/assets/pdf/20190911/FORMULARZ-ZGLOSZENIOWY-2020.pdf">Formularz zgłoszeniowy dla wystawców
 
                     <img class="icon" src="//src/src/assets/img/pdficon.png" alt=""></a>
 
@@ -36,13 +36,13 @@
                     <h3>Formularz dla wystawców:</h3><br> <ul>
 
                         <li class="dllink">
-                            <a target="_blank" href="/src/assets/pdf/20200116/FORMULARZ-ZGLOSZENIOWY-2020.pdf">Formularz zgłoszeniowy IV Agro Targi Wschód
-                                <img src="/src/assets/img/pdficon.png">
+                            <a target="_blank" href="./src/assets/pdf/20200116/FORMULARZ-ZGLOSZENIOWY-2020.pdf">Formularz zgłoszeniowy IV Agro Targi Wschód
+                                <img src="./src/assets/img/pdficon.png">
                             </a>
                         </li>
                         <!-- <li class="dllink">
-                                <a target="_blank" href="/src/assets/pdf/20190911/Formularz-zgloszeniowy-dla-Podmiotu-Aukcyjnego.pdf">Formularz zgłoszeniowy dla Podmiotu Aukcyjnego
-                                <img src="/src/assets/img/pdficon.png">
+                                <a target="_blank" href="./src/assets/pdf/20190911/Formularz-zgloszeniowy-dla-Podmiotu-Aukcyjnego.pdf">Formularz zgłoszeniowy dla Podmiotu Aukcyjnego
+                                <img src="./src/assets/img/pdficon.png">
                                 </a>
                         </li> -->
 
@@ -62,18 +62,18 @@
                     <p>Uczestników Targów prowadzących działalność handlową i inną nie wystawienniczą prosimy o wypełnienie i przesłanie niniejszej umowy:</p><br>
                     <ul>
                         <!--  <li class="dllink">
-                            <a target="_blank" href="/src/assets/pdf/20190105/Cennik-dla-handlu-drobnego-ATW-2019.pdf">Cennik dla handlu drobnego
-                            <img src="/src/assets/img/pdficon.png">
+                            <a target="_blank" href="./src/assets/pdf/20190105/Cennik-dla-handlu-drobnego-ATW-2019.pdf">Cennik dla handlu drobnego
+                            <img src="./src/assets/img/pdficon.png">
                             </a>
                         </li> -->
                         <li class="dllink">
-                            <a target="_blank" href="/src/assets/pdf/20200116/UMOWA-DLA-HANDLU-DROBNEGO-2020.pdf">Umowa dla handlu drobnego
-                                <img src="/src/assets/img/pdficon.png">
+                            <a target="_blank" href="./src/assets/pdf/20200116/UMOWA-DLA-HANDLU-DROBNEGO-2020.pdf">Umowa dla handlu drobnego
+                                <img src="./src/assets/img/pdficon.png">
                             </a>
                         </li>
                         <!-- <li class="dllink">
-                            <a target="_blank" href="/src/assets/pdf/20190911/FORMULARZ-ZGLOSZENIOWY-DLA-REKODZIELA-2020.pdf">Umowa dla rękodzieła
-                            <img src="/src/assets/img/pdficon.png">
+                            <a target="_blank" href="./src/assets/pdf/20190911/FORMULARZ-ZGLOSZENIOWY-DLA-REKODZIELA-2020.pdf">Umowa dla rękodzieła
+                            <img src="./src/assets/img/pdficon.png">
                             </a>
                         </li> -->
 
@@ -99,13 +99,13 @@
                             Zaakceptuje w pełni obowiązujący go regulamin.
                         </li><br>
                         <!-- <li class="dllink">
-                            <a target="_blank" href="/src/assets/pdf/20190105/Cennik-dla-wystawcow-ATW-2019.pdf">Cennik dla wystawców
-                            <img src="/src/assets/img/pdficon.png">
+                            <a target="_blank" href="./src/assets/pdf/20190105/Cennik-dla-wystawcow-ATW-2019.pdf">Cennik dla wystawców
+                            <img src="./src/assets/img/pdficon.png">
                             </a>
                         </li>
                         <li class="dllink">
-                            <a target="_blank" href="/src/assets/pdf/20200116/FORMULARZ-ZGLOSZENIOWY-2020.pdf">Formularz zgłoszeniowy dla wystawców
-                            <img src="/src/assets/img/pdficon.png">
+                            <a target="_blank" href="./src/assets/pdf/20200116/FORMULARZ-ZGLOSZENIOWY-2020.pdf">Formularz zgłoszeniowy dla wystawców
+                            <img src="./src/assets/img/pdficon.png">
                             </a>
                         </li> -->
                     </ul>
@@ -170,8 +170,8 @@
                     </tr>
                 </table>
                 <p>*podane kwoty są cenami netto</p>
-                <span><a href="/src/assets/pdf/20190911/CENNIK-REKLAM.pdf">pobierz cennik
-                    <img src="/src/assets/img/pdficon.png">
+                <span><a href="./src/assets/pdf/20190911/CENNIK-REKLAM.pdf">pobierz cennik
+                    <img src="./src/assets/img/pdficon.png">
                     </a></span>
             </div>
         </div>
