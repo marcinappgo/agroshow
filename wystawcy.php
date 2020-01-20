@@ -82,7 +82,7 @@
 	        	           		</li>  
 								<li>
 	        	           			<a href="http://www.sggw.pl/">
-	        	           				<img src="./src/assets/img/sponsorzy/mini/sggw-300.png" alt="sponsors"/>
+	        	           				<img src="./src/assets/img/sponsorzy/mini/SGGW-300.png" alt="sponsors"/>
 	        	           			</a>
 	        	           		</li>
 	        	           		<li>
