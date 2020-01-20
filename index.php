@@ -61,10 +61,10 @@
                     <img src="./src/assets/img/1.jpg" alt="1">
                 </div>
                 <p class="date">10-05-2020</p>
-                <h2 class="heading-2"><a href="aktualnosc_1.php">Artykuł 1</a></h2>
+                <h2 class="heading-2"><a href="/wszystkie-aktualnosci/aktualnosc-pierwsza.php">Artykuł 1</a></h2>
                 <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid aspernatur at
                     consequatur dolores dolorum eaque ipsum qui quidem quos recusandae tempore.</p>
-                <a href="#" class="button-outline">DOWIEDZ SIĘ WIĘCEJ <i class="fa fa-chevron-right ml-2"></i></a>
+                <a href="/wszystkie-aktualnosci/aktualnosc-pierwsza.php" class="button-outline">DOWIEDZ SIĘ WIĘCEJ <i class="fa fa-chevron-right ml-2"></i></a>
             </div>
         </div>
         <div class="col-12 col-lg-4">

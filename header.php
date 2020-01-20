@@ -9,19 +9,19 @@
 
 <!--    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="dist/css/slick.css">
-    <link rel="stylesheet" href="dist/css/simplelightbox.min.css">
-    <link rel="stylesheet" href="dist/css/main.min.css">
-    <link rel="stylesheet" href="dist/css/style.css">
+    <link rel="stylesheet" href="/dist/css/slick.css">
+    <link rel="stylesheet" href="/dist/css/simplelightbox.min.css">
+    <link rel="stylesheet" href="/dist/css/main.min.css">
+    <link rel="stylesheet" href="/dist/css/style.css">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
 
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
-    <script src="./dist/js/slick.min.js"></script>
+    <script src="/dist/js/slick.min.js"></script>
 <!--    <script src="dist/js/scripts.min.js"></script>-->
-    <script src="./dist/js/simple-lightbox.min.js"></script>
-    <script src="./src/js/main.js"></script>
+    <script src="/dist/js/simple-lightbox.min.js"></script>
+    <script src="/src/js/main.js"></script>
 
 
 
@@ -59,7 +59,7 @@
             <div class="row d-flex justify-content-end">
                 <div class="col-md-6 col-lg-12 col-xl-auto d-flex align-items-center justify-content-end">
                     <small class="mr-3">ORGANIZATOR:</small>
-                    <img src="./src/assets/img/_update/pig_logo.png" alt="polska izba gospodarcza">
+                    <img src="/src/assets/img/_update/pig_logo.png" alt="polska izba gospodarcza">
                 </div>
                 <div class="col-6 col-md-auto d-flex align-items-center justify-content-end">
                     <small class="mr-3">Język</small>
@@ -106,26 +106,26 @@
                     <li><span>O wystawie <i class="fa fa-chevron-down ml-3"></i></span>
                         <ul>
                             <li>
-                                <a href="index.php">Index</a>
+                                <a href="/">Index</a>
                             </li>
                             <li>
-                                <a href="wykonawcy.php">Wykonawcy</a>
+                                <a href="/wykonawcy.php">Wykonawcy</a>
                             </li>
                             <li>
-                                <a href="aktualnosci.php">Aktualnosci</a>
+                                <a href="/aktualnosci.php">Aktualnosci</a>
                             </li>
                         </ul>
                     </li>
                     <li><span>Dla zwiedzających <i class="fa fa-chevron-down ml-3"></i></span>
                         <ul>
                             <li>
-                                <a href="galeria.php">Galeria</a>
+                                <a href="/galeria.php">Galeria</a>
                             </li>
                             <li>
-                                <a href="kontakt.php">Kontakt</a>
+                                <a href="/kontakt.php">Kontakt</a>
                             </li>
                             <li>
-                                <a href="o-targach.php">O targach</a>
+                                <a href="/o-targach.php">O targach</a>
                             </li>
                             <li>
                                 <a href="#">Jeszcze link</a>

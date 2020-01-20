@@ -9,7 +9,7 @@
             <hr class="hr-heading">
         </div>
         <div class="col-12 col-lg-3 d-flex align-items-center justify-content-end">
-            <a href="aktualnosci.php" class="button-outline">POWRÓT DO LISTY <i class="fa fa-chevron-right ml-2"></i></a>
+            <a href="/aktualnosci.php" class="button-outline">POWRÓT DO LISTY <i class="fa fa-chevron-right ml-2"></i></a>
         </div>
     </div>
 
