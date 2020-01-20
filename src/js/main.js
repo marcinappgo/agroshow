@@ -23,5 +23,7 @@ $(document).ready(function() {
         speed: 1600,
         // fade: true
     });
+
+    $('.gallery a').simpleLightbox();
 });
 

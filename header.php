@@ -9,7 +9,8 @@
 
 <!--    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="./src/styles/slick.scss">
+    <link rel="stylesheet" href="dist/css/slick.scss">
+    <link rel="stylesheet" href="dist/css/simplelightbox.min.css">
     <link rel="stylesheet" href="dist/css/main.min.css">
     <link rel="stylesheet" href="dist/css/style.css">
 
@@ -17,8 +18,9 @@
 
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
-    <script src="./src/js/slick.min.js"></script>
+    <script src="./dist/js/slick.min.js"></script>
 <!--    <script src="dist/js/scripts.min.js"></script>-->
+    <script src="./dist/js/simple-lightbox.min.js"></script>
     <script src="./src/js/main.js"></script>
 
 
@@ -104,26 +106,26 @@
                     <li><span>O wystawie <i class="fa fa-chevron-down ml-3"></i></span>
                         <ul>
                             <li>
-                                <a href="#">Pierwszy link</a>
+                                <a href="index.php">Index</a>
                             </li>
                             <li>
-                                <a href="#">Drugi link</a>
+                                <a href="wykonawcy.php">Wykonawcy</a>
                             </li>
                             <li>
-                                <a href="#">Trzeci link</a>
+                                <a href="aktualnosci.php">Aktualnosci</a>
                             </li>
                         </ul>
                     </li>
                     <li><span>Dla zwiedzających <i class="fa fa-chevron-down ml-3"></i></span>
                         <ul>
                             <li>
-                                <a href="#">Pierwszy link</a>
+                                <a href="galeria.php">Galeria</a>
                             </li>
                             <li>
-                                <a href="#">Drugi link</a>
+                                <a href="kontakt.php">Kontakt</a>
                             </li>
                             <li>
-                                <a href="#">Trzeci link</a>
+                                <a href="o-targach.php">O targach</a>
                             </li>
                             <li>
                                 <a href="#">Jeszcze link</a>

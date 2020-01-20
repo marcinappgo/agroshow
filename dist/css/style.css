@@ -281,6 +281,12 @@
 .about-event-page .item {
   padding: 75px 50px;
 }
+.gallery-index {
+  margin: 100px auto;
+}
+.sponsors-index {
+  margin: 100px auto;
+}
 .contact-page .map {
   height: 600px;
 }

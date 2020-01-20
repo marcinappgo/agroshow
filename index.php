@@ -1,18 +1,7 @@
 <?php require_once('header.php') ?>
 
 
-<section class="container-fluid">
-    <div class="row">
-        <div class="col-12 p-0">
-            <div class="slider-index">
-                <div class="slide"><img src="./src/assets/img/slider/1.png" alt="1"></div>
-                <div class="slide"><img src="./src/assets/img/slider/2.png" alt="2"></div>
-                <div class="slide"><img src="./src/assets/img/slider/3.png" alt="3"></div>
-                <div class="slide"><img src="./src/assets/img/slider/4.png" alt="4"></div>
-            </div>
-        </div>
-    </div>
-</section>
+<?php require_once('slider.php') ?>
 
 
 <section class="container info-index">
@@ -72,7 +61,7 @@
                     <img src="./src/assets/img/1.jpg" alt="1">
                 </div>
                 <p class="date">10-05-2020</p>
-                <h2 class="heading-2"><a href="#">Artykuł 1</a></h2>
+                <h2 class="heading-2"><a href="aktualnosc_1.php">Artykuł 1</a></h2>
                 <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid aspernatur at
                     consequatur dolores dolorum eaque ipsum qui quidem quos recusandae tempore.</p>
                 <a href="#" class="button-outline">DOWIEDZ SIĘ WIĘCEJ <i class="fa fa-chevron-right ml-2"></i></a>
