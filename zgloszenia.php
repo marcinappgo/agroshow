@@ -7,16 +7,16 @@
     <div class="row">
         <div class="col-xs-12 col-md-4 no-padding">
            <div class="info-banner">
-                <a target="_blank" href="/assets/pdf/20190911/FORMULARZ-ZGLOSZENIOWY-2020.pdf">Formularz zgłoszeniowy dla wystawców
+                <a target="_blank" href="/src/assets/pdf/20190911/FORMULARZ-ZGLOSZENIOWY-2020.pdf">Formularz zgłoszeniowy dla wystawców
 
-                    <img class="icon" src="//src/assets/img/pdficon.png" alt=""></a>
+                    <img class="icon" src="//src/src/assets/img/pdficon.png" alt=""></a>
 
             </div>
 
         </div>
         <div class="col-xs-12 col-md-8 no-padding">
             <div class="info-banner">
-                <img class="icon" src="//src/assets/img/ZGLOSZENIA.png" alt="">
+                <img class="icon" src="//src/src/assets/img/ZGLOSZENIA.png" alt="">
                 <h4>Formularze zgłoszeniowe na IV edycję Agro Targi Wschód 2020 są dostępne w wersji elektronicznej. Uprzejmie prosimy o przesłanie wypełnionego formularza  zgłoszeniowego         w formie papierowej na adres: P.P.H.U. Sawa Expo Stanisław Sawa, Nowosiółki 79, 22-652 Telatyn i elektronicznej na adres e-mail: biuro@agrotargiwschod.pl. </h4>
             </div>
         </div>
@@ -26,19 +26,19 @@
 </div> -->
 
     <div class="container">
-        <div class="row">
+        <div class="row d-flex justify-content-center">
             <div class="col-xs-12 no-padding">
                 <div class="text-box">
                     <h3>Formularz dla wystawców:</h3><br> <ul>
 
                         <li class="dllink">
-                            <a target="_blank" href="/assets/pdf/20200116/FORMULARZ-ZGLOSZENIOWY-2020.pdf">Formularz zgłoszeniowy IV Agro Targi Wschód
-                                <img src="/assets/img/pdficon.png">
+                            <a target="_blank" href="/src/assets/pdf/20200116/FORMULARZ-ZGLOSZENIOWY-2020.pdf">Formularz zgłoszeniowy IV Agro Targi Wschód
+                                <img src="/src/assets/img/pdficon.png">
                             </a>
                         </li>
                         <!-- <li class="dllink">
-                                <a target="_blank" href="/assets/pdf/20190911/Formularz-zgloszeniowy-dla-Podmiotu-Aukcyjnego.pdf">Formularz zgłoszeniowy dla Podmiotu Aukcyjnego
-                                <img src="/assets/img/pdficon.png">
+                                <a target="_blank" href="/src/assets/pdf/20190911/Formularz-zgloszeniowy-dla-Podmiotu-Aukcyjnego.pdf">Formularz zgłoszeniowy dla Podmiotu Aukcyjnego
+                                <img src="/src/assets/img/pdficon.png">
                                 </a>
                         </li> -->
 
@@ -51,25 +51,25 @@
     </div>
 
     <div class="container">
-        <div class="row">
+        <div class="row d-flex justify-content-center">
             <div class="col-xs-12 no-padding">
                 <div class="text-box">
                     <h3>Formularz dla handlu:</h3><br>
                     <p>Uczestników Targów prowadzących działalność handlową i inną nie wystawienniczą prosimy o wypełnienie i przesłanie niniejszej umowy:</p><br>
                     <ul>
                         <!--  <li class="dllink">
-                            <a target="_blank" href="/assets/pdf/20190105/Cennik-dla-handlu-drobnego-ATW-2019.pdf">Cennik dla handlu drobnego
-                            <img src="/assets/img/pdficon.png">
+                            <a target="_blank" href="/src/assets/pdf/20190105/Cennik-dla-handlu-drobnego-ATW-2019.pdf">Cennik dla handlu drobnego
+                            <img src="/src/assets/img/pdficon.png">
                             </a>
                         </li> -->
                         <li class="dllink">
-                            <a target="_blank" href="/assets/pdf/20200116/UMOWA-DLA-HANDLU-DROBNEGO-2020.pdf">Umowa dla handlu drobnego
-                                <img src="/assets/img/pdficon.png">
+                            <a target="_blank" href="/src/assets/pdf/20200116/UMOWA-DLA-HANDLU-DROBNEGO-2020.pdf">Umowa dla handlu drobnego
+                                <img src="/src/assets/img/pdficon.png">
                             </a>
                         </li>
                         <!-- <li class="dllink">
-                            <a target="_blank" href="/assets/pdf/20190911/FORMULARZ-ZGLOSZENIOWY-DLA-REKODZIELA-2020.pdf">Umowa dla rękodzieła
-                            <img src="/assets/img/pdficon.png">
+                            <a target="_blank" href="/src/assets/pdf/20190911/FORMULARZ-ZGLOSZENIOWY-DLA-REKODZIELA-2020.pdf">Umowa dla rękodzieła
+                            <img src="/src/assets/img/pdficon.png">
                             </a>
                         </li> -->
 
@@ -80,7 +80,7 @@
     </div>
 
     <div class="container">
-        <div class="row">
+        <div class="row d-flex justify-content-center">
             <div class="col-xs-12 no-padding">
                 <div class="text-box">
                     <p>Wystawca może wziąć udział w Targach, jeżeli spełni następujące warunki łącznie:</p>
@@ -95,13 +95,13 @@
                             Zaakceptuje w pełni obowiązujący go regulamin.
                         </li><br>
                         <!-- <li class="dllink">
-                            <a target="_blank" href="/assets/pdf/20190105/Cennik-dla-wystawcow-ATW-2019.pdf">Cennik dla wystawców
-                            <img src="/assets/img/pdficon.png">
+                            <a target="_blank" href="/src/assets/pdf/20190105/Cennik-dla-wystawcow-ATW-2019.pdf">Cennik dla wystawców
+                            <img src="/src/assets/img/pdficon.png">
                             </a>
                         </li>
                         <li class="dllink">
-                            <a target="_blank" href="/assets/pdf/20200116/FORMULARZ-ZGLOSZENIOWY-2020.pdf">Formularz zgłoszeniowy dla wystawców
-                            <img src="/assets/img/pdficon.png">
+                            <a target="_blank" href="/src/assets/pdf/20200116/FORMULARZ-ZGLOSZENIOWY-2020.pdf">Formularz zgłoszeniowy dla wystawców
+                            <img src="/src/assets/img/pdficon.png">
                             </a>
                         </li> -->
                     </ul>
@@ -112,7 +112,7 @@
 
 
     <div class="container">
-        <div class="row">
+        <div class="row d-flex justify-content-center">
             <div class="col-xs-12 no-padding">
                 <div class="text-box">
                     <h3>Gastronomia:</h3>
@@ -124,7 +124,7 @@
     </div>
 
     <div class="container">
-        <div class="row">
+        <div class="row d-flex justify-content-center">
             <div class="col-xs-12 no-padding" style="text-align: center">
                 <h3>reklamy</h3>
                 <table>
@@ -166,8 +166,8 @@
                     </tr>
                 </table>
                 <p>*podane kwoty są cenami netto</p>
-                <span><a href="/assets/pdf/20190911/CENNIK-REKLAM.pdf">pobierz cennik
-                    <img src="/assets/img/pdficon.png">
+                <span><a href="/src/assets/pdf/20190911/CENNIK-REKLAM.pdf">pobierz cennik
+                    <img src="/src/assets/img/pdficon.png">
                     </a></span>
             </div>
         </div>
@@ -209,17 +209,17 @@
             </div> -->
 
     <div class="container">
-        <div class="row">
+        <div class="row d-flex justify-content-center">
             <!-- <div class="col-xs-12 no-padding">
                 <div class="see-more">
                     <span>zobacz również</span>
                 </div>
             </div> -->
         </div>
-        <div class="row">
+        <div class="row d-flex justify-content-center">
             <!-- <div class="col-xs-12 col-md-4 no-padding">
                 <div class="info-banner">
-                    <img class="icon" src="//src/assets/img/DOJAZD.png" alt="">
+                    <img class="icon" src="//src/src/assets/img/DOJAZD.png" alt="">
                     <h4>Dojazd i hotele</h4>
                     <p>Specjalnie dla naszych wystawców nawiązaliśmy współpracę z Bazą Noclegową w pobliżu III edycji Agro Targów Wschód. Rekomendowane przez nas miejsca, spełnią potrzeby najbardziej wymagających.</p>
                     <a href="for-exhibitors-drive.html" class="">czytaj</a>
@@ -227,7 +227,7 @@
             </div>
             <div class="col-xs-12 col-md-6 no-padding">
                 <div class="info-banner">
-                    <img class="icon" src="//src/assets/img/xyz.png" alt="">
+                    <img class="icon" src="//src/src/assets/img/xyz.png" alt="">
                     <h4>Reklama</h4>
                     <p>W trakcie III edycji Agro Targów Wschód nasi wystawcy będą mieć różne możliwości reklamowe, za dodatkową opłatą. Szczegóły wkrótce.</p>
                     <a href="for-exhibitors-comm.html" class="">czytaj</a>
@@ -235,7 +235,7 @@
             </div>-->
             <div class="col-xs-12 col-md-offset-3 no-padding">
                 <!--  <div class="info-banner">
-                    <img class="icon" src="//src/assets/img/REGULAMIN.png" alt="">
+                    <img class="icon" src="//src/src/assets/img/REGULAMIN.png" alt="">
                     <h4>Regulamin</h4>
                     <p>Regulaminy wystawy i pokazów dostępne są do pobrania w wersji pdf. Warunkiem udziału w wystawie jest akceptacja wyżej wymienionych Regulaminów. </p>
                     <a href="for-exhibitors-regulations.html" class="">czytaj</a>

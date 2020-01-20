@@ -80,40 +80,42 @@
         </div>
     </div>
     <div class="container">
-        <div class="row">
-            <h3 style="text-align: center;">REGULAMIN AGRO TARGÓW WSCHÓD:</h3><br>
+        <div class="row d-flex justify-content-center">
+            <div class="col-12">
+                <h3 style="text-align: center;">REGULAMIN AGRO TARGÓW WSCHÓD:</h3><br>
+            </div>
             <div class="col-xs-12 no-padding">
 
 
                 <ul>
                     <li class="dllink">
-                        <a target="_blank" href="/assets/pdf/20200116/REGULAMIN.pdf"><h3> Regulamin targów
-                                <img src="/assets/img/pdficon.png"></h3>
+                        <a target="_blank" href="/src/assets/pdf/20200116/REGULAMIN.pdf"><h3> Regulamin targów
+                                <img src="/src/assets/img/pdficon.png"></h3>
                         </a>
                     </li>
                     <li class="dllink">
-                        <a target="_blank" href="/assets/pdf/20200116/REGULAMIN-POKAZOW-MASZYN.pdf"><h3>Regulamin pokazów maszyn
-                                <img src="/assets/img/pdficon.png"></h3>
+                        <a target="_blank" href="/src/assets/pdf/20200116/REGULAMIN-POKAZOW-MASZYN.pdf"><h3>Regulamin pokazów maszyn
+                                <img src="/src/assets/img/pdficon.png"></h3>
                         </a>
                     </li>
                     <li class="dllink">
-                        <a target="_blank" href="/assets/pdf/20200116/REGULAMIN-DLA-HANDLU-DROBNEGO.pdf"><h3>Regulamin dla handlu drobnego
-                                <img src="/assets/img/pdficon.png"></h3>
+                        <a target="_blank" href="/src/assets/pdf/20200116/REGULAMIN-DLA-HANDLU-DROBNEGO.pdf"><h3>Regulamin dla handlu drobnego
+                                <img src="/src/assets/img/pdficon.png"></h3>
                         </a>
                     </li>
                     <!-- <li class="dllink">
-                            <a target="_blank" href="/assets/pdf/20190916/ZALACZNIK-NR-1.pdf"><h3>Załącznik nr 1
-                            <img src="/assets/img/pdficon.png"></h3>
+                            <a target="_blank" href="/src/assets/pdf/20190916/ZALACZNIK-NR-1.pdf"><h3>Załącznik nr 1
+                            <img src="/src/assets/img/pdficon.png"></h3>
                             </a>
                     </li>
                     <li class="dllink">
-                            <a target="_blank" href="/assets/pdf/20190916/ZALACZNIK-NR-2.pdf"><h3>Załącznik nr 2
-                            <img src="/assets/img/pdficon.png"></h3>
+                            <a target="_blank" href="/src/assets/pdf/20190916/ZALACZNIK-NR-2.pdf"><h3>Załącznik nr 2
+                            <img src="/src/assets/img/pdficon.png"></h3>
                             </a>
                     </li>
                     <li class="dllink">
-                            <a target="_blank" href="/assets/pdf/20190916/ZALACZNIK-NR-3.pdf"><h3>Załącznik nr 3
-                            <img src="/assets/img/pdficon.png"></h3>
+                            <a target="_blank" href="/src/assets/pdf/20190916/ZALACZNIK-NR-3.pdf"><h3>Załącznik nr 3
+                            <img src="/src/assets/img/pdficon.png"></h3>
                             </a>
                     </li> -->
                 </ul>
