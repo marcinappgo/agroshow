@@ -6,36 +6,28 @@
 
 <section class="container info-index">
     <div class="row no-gutters">
-        <div class="col-12 col-md-6 col-lg-3">
-            <a href="#" class="item">
+        <div class="col-12 col-md-4">
+            <a href="/zgloszenia.php" class="item">
                 <div class="thumb mr-0">
                     <?php include('./src/assets/img/_update/ico/zgloszenia.svg') ?>
                 </div>
                 Zgłoszenie
             </a>
         </div>
-        <div class="col-12 col-md-6 col-lg-3">
-            <a href="#" class="item">
+        <div class="col-12 col-md-4">
+            <a href="/o-targach.php" class="item">
                 <div class="thumb">
                     <?php include('./src/assets/img/_update/ico/plan_imprezy.svg') ?>
                 </div>
-                Plan Wystawy
+                Plan
             </a>
         </div>
-        <div class="col-12 col-md-6 col-lg-3">
-            <a href="#" class="item">
+        <div class="col-12 col-md-4">
+            <a href="/wykonawcy.php" class="item">
                 <div class="thumb">
                     <?php include('./src/assets/img/_update/ico/lista_wystawcow.svg') ?>
                 </div>
                 Lista Wystawców
-            </a>
-        </div>
-        <div class="col-12 col-md-6 col-lg-3">
-            <a href="#" class="item">
-                <div class="thumb">
-                    <?php include('./src/assets/img/_update/ico/dojazd.svg') ?>
-                </div>
-                Dojazd
             </a>
         </div>
     </div>
