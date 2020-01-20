@@ -49,7 +49,7 @@
 <header class="container main-header">
     <div class="row">
         <div class="col-12 col-sm-6 col-lg-auto d-flex align-items-center justify-content-center justify-content-sm-start">
-            <a href="/"><img src="src/assets/img/logo.png" alt="Logo"></a>
+            <a href="/"><img src="/src/assets/img/logo.png" alt="Logo"></a>
         </div>
         <div class="col-12 col-sm-6 col-lg-auto pt-3 pt-sm-0 d-flex flex-column justify-content-center align-items-center align-content-sm-start">
             <h3 class="heading-3">17-20 września 2020 <br> Bednary</h3>
