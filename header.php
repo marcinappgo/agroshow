@@ -128,10 +128,10 @@
                                 <a href="/o-targach.php">O targach</a>
                             </li>
                             <li>
-                                <a href="#">Jeszcze link</a>
+                                <a href="/zgloszenia.php">Zgłoszenia</a>
                             </li>
                             <li>
-                                <a href="#">Kolejny link</a>
+                                <a href="/regulamin.php">Regulamin</a>
                             </li>
                         </ul>
                     </li>
