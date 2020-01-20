@@ -109,7 +109,7 @@
                                 <a href="/">Index</a>
                             </li>
                             <li>
-                                <a href="/wykonawcy.php">Wykonawcy</a>
+                                <a href="/wystawcy.php">Wystawcy</a>
                             </li>
                             <li>
                                 <a href="/aktualnosci.php">Aktualnosci</a>

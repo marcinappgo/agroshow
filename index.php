@@ -23,7 +23,7 @@
             </a>
         </div>
         <div class="col-12 col-md-4">
-            <a href="/wykonawcy.php" class="item">
+            <a href="/wystawcy.php" class="item">
                 <div class="thumb">
                     <?php include('./src/assets/img/_update/ico/lista_wystawcow.svg') ?>
                 </div>
@@ -42,7 +42,7 @@
             <hr class="hr-heading">
         </div>
         <div class="col-12 col-lg-3 d-flex align-items-center justify-content-end">
-            <a href="#" class="button-outline">ZOBACZ WSZYSTKIE <i class="fa fa-chevron-right ml-2"></i></a>
+            <a href="/aktualnosci.php" class="button-outline">ZOBACZ WSZYSTKIE <i class="fa fa-chevron-right ml-2"></i></a>
         </div>
     </div>
 
