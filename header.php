@@ -9,7 +9,7 @@
 
 <!--    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="dist/css/slick.scss">
+    <link rel="stylesheet" href="dist/css/slick.css">
     <link rel="stylesheet" href="dist/css/simplelightbox.min.css">
     <link rel="stylesheet" href="dist/css/main.min.css">
     <link rel="stylesheet" href="dist/css/style.css">
