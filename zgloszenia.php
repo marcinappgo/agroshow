@@ -2,6 +2,10 @@
 <?php require_once('header.php') ?>
 
 
+<?php require_once('slider.php') ?>
+
+
+
 <div class="forExhibitors-application application-index">
     <!-- <div class="container">
     <div class="row">
