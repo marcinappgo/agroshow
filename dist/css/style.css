@@ -290,11 +290,45 @@
 .application-index {
   margin: 100px auto;
 }
+.application-index p,
+.application-index li {
+  font-size: 16px !important;
+}
+.application-index a {
+  font-size: 20px !important;
+  font-weight: normal;
+}
+.application-index a:hover {
+  text-decoration: underline;
+}
+.application-index .text-box {
+  margin: 0;
+}
+.application-index .heading-2 {
+  margin-top: 25px;
+}
+.application-index table {
+  margin: 0;
+}
 .rule-index {
   margin: 100px auto;
 }
+.rule-index span {
+  font-size: 20px;
+  font-weight: normal;
+}
+.rule-index span:hover {
+  text-decoration: underline;
+}
+.rule-index li {
+  margin: 0 !important;
+}
 .event-plan-index {
   margin: 100px auto;
+}
+.partners-caption {
+  font-size: 14px;
+  padding-top: 10px;
 }
 .contact-page .map {
   height: 600px;
