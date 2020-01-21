@@ -265,6 +265,9 @@
   font-size: 12px;
   margin: 0;
 }
+.about-event-page {
+  padding-top: 75px;
+}
 .about-event-page .heading img {
   width: 100%;
   height: 550px;
@@ -295,7 +298,7 @@
   font-size: 16px !important;
 }
 .application-index a {
-  font-size: 20px !important;
+  font-size: 16px !important;
   font-weight: normal;
 }
 .application-index a:hover {
@@ -304,7 +307,7 @@
 .application-index .text-box {
   margin: 0;
 }
-.application-index .heading-2 {
+.application-index h5 {
   margin-top: 25px;
 }
 .application-index table {
@@ -314,7 +317,7 @@
   margin: 100px auto;
 }
 .rule-index span {
-  font-size: 20px;
+  font-size: 16px;
   font-weight: normal;
 }
 .rule-index span:hover {

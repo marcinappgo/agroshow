@@ -7,7 +7,7 @@
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-12">
-                <h2 class="heading-2">REGULAMIN AGRO TARGÓW WSCHÓD:</h2><br>
+                <h5>REGULAMIN AGRO TARGÓW WSCHÓD:</h5><br>
             </div>
             <div class="col-12 no-padding">
 

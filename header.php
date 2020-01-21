@@ -58,7 +58,7 @@
         <div class="col-12 col-lg pt-3 pt-md-0">
             <div class="row d-flex justify-content-end">
                 <div class="col-md-6 col-lg-12 col-xl-auto d-flex align-items-center justify-content-end">
-<!--                    <small class="mr-3">ORGANIZATOR:</small>-->
+                    <small class="mr-3">ORGANIZATOR:</small>
                     <img src="./src/assets/img/_update/organizator.png" alt="polska izba gospodarcza">
                 </div>
                 <div class="col-6 col-md-auto d-flex align-items-center justify-content-end">

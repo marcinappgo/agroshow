@@ -1,19 +1,9 @@
 <?php require_once('header.php') ?>
 
 
-<section class="container-fluid about-event-page">
-    <div class="row">
-        <div class="col p-0">
-            <div class="heading">
-                <img src="./src/assets/img/2.JPG" alt="bg">
-                <h1>O targach</h1>
-            </div>
-        </div>
-    </div>
-</section>
-
 
 <section class="container about-event-page">
+
 
     <div class="row mb-5">
         <div class="col-lg-6 d-flex flex-column align-items-center">

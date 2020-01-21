@@ -94,7 +94,7 @@
 
             <div class="row">
                 <div class="aside-small-header">
-                    <h4 class="text-right">Partnerzy</h4>
+                    <h5 class="text-right">Partnerzy</h5>
                     <hr>
                 </div>
             </div>
@@ -129,7 +129,7 @@
             <!-- <h3></h3> -->
             <div class="row">
                 <div class="aside-small-header">
-                    <h4 class="text-right">Patronat</h4>
+                    <h5 class="text-right">Patronat</h5>
                     <hr>
                 </div>
             </div>
@@ -153,13 +153,13 @@
                 </div> -->
                 <div class="col-xs-12 col-md-4 ">
                     <img  src="src/assets/img/partnerzy/partner1x.png" alt="MINISTER ROLNICTWA I ROZWOJU WSI">
-                    <p class="partners-caption">MINISTER ROLNICTWA <br>
-                        I ROZWOJU WSI</p>
+                    <p class="partners-caption">Minister Rolnictwa <br>
+                        i Rozwoju Wsi</p>
                 </div>
                 <div class="col-xs-12 col-md-4 ">
                     <img src="src/assets/img/partnerzy/partner2x.png" alt="MARSZAŁEK WOJEWÓDZTWA PODKARPACKIEGO">
-                    <p class="partners-caption">MARSZAŁEK WOJEWÓDZTWA <br>
-                        PODKARPACKIEGO</p>
+                    <p class="partners-caption">Marszałek Województwa <br>
+                        Podkarpackiego</p>
                 </div>
 
 
@@ -174,7 +174,7 @@
             <!-- <h3> </h3> -->
             <div class="row">
                 <div class="aside-small-header">
-                    <h4 class="text-right">Patronat Medialny</h4>
+                    <h5 class="text-right">Patronat Medialny</h5>
                     <hr>
                 </div>
             </div>

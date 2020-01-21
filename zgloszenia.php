@@ -31,7 +31,7 @@
         <div class="row d-flex justify-content-center">
             <div class="col-12 no-padding">
                 <div class="text-box">
-                    <h2 class="heading-2">Formularz dla wystawców:</h2><br> <ul>
+                    <h5>Formularz dla wystawców:</h5><br> <ul>
 
                         <li class="dllink">
                             <a target="_blank" href="./src/assets/pdf/20200116/FORMULARZ-ZGLOSZENIOWY-2020.pdf">Formularz zgłoszeniowy IV Agro Targi Wschód
@@ -56,7 +56,7 @@
         <div class="row d-flex justify-content-center">
             <div class="col-12 no-padding">
                 <div class="text-box">
-                    <h2 class="heading-2">Formularz dla handlu:</h2><br>
+                    <h5>Formularz dla handlu:</h5><br>
                     <p>Uczestników Targów prowadzących działalność handlową i inną nie wystawienniczą prosimy o wypełnienie i przesłanie niniejszej umowy:</p><br>
                     <ul>
                         <!--  <li class="dllink">
@@ -117,7 +117,7 @@
         <div class="row d-flex justify-content-center">
             <div class="col-12 no-padding">
                 <div class="text-box">
-                    <h2 class="heading-2">Gastronomia:</h2>
+                    <h5>Gastronomia:</h5>
                     <p>Przedstawicieli firm gastronomicznych (catering/ sprzedaż piwa) prosimy o bezpośredni kontakt z organizatorem Agro Targów Wschód pod adresem e-mailowym: biuro@agrotargiwschod.pl lub nr telefonu 606 418 785 lub 604 750 443
                     </p>
                 </div>
@@ -128,7 +128,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 no-padding">
-                <h2 class="heading-2">Reklamy</h2>
+                <h5>Reklamy</h5>
                 <table>
                     <tr>
                         <td>Typ reklamy</td>
